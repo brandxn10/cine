@@ -1,0 +1,27 @@
+{
+    "short_name": "cine",
+    "name": "App de cine dinamico",
+    "description": "Aplicacion para comprar entradas de cine",
+    "start_url": "index.html",
+    "background_color": "#111111",
+    "theme_color": "#111111",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons":[
+        {
+            "src":"iconos/maps.png",
+            "type": "image/png",
+            "sizez": "512x512"
+        },
+        {
+            "src":"iconos/mantenimiento.png",
+            "type": "image/png",
+            "sizez": "225x225"
+        },
+        {
+            "src":"iconos/usuario.png",
+            "type": "image/png",
+            "sizez": "512x512"
+        }
+    ]
+}
