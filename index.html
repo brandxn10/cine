@@ -106,7 +106,7 @@
                     console.error('Error al registrar el Service Worker:', error);
                 });
 
-                navigator.serviceWorker.register('/sw1.js')
+                navigator.serviceWorker.register('cine/sw1.js')
                 .then(registration => {
                     console.log('Service Worker registrado con éxito:', registration);
                 })
